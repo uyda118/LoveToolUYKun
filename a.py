@@ -48,7 +48,7 @@ class Home:
 ╔╗ ♥     ╔♫═╗  ♥
 ║║♫═╦╦╦╔╗╚╗╔╝♫═╗♫═╗╔╗
 ♫╚╣║║║║╔╣ ║║ ║║║║║║♫║♫╗  
-╚═╩═╩♫╩═╝ ╚╝ ╚═╝╚═╝╚══╝
+╚═╩═╩♫╩═╝ ╚╝ ╚═╝╚═╝╚══╝ Decode by GIAUY
    ♫ Lệnh " HELP " Để Xem All Lệnh ♫
 """)
 		print(Color.LR+"["+Color.LG+"01"+Color.LR+"]"+Color.LC+" SOCKET FLOOD")
